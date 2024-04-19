@@ -1,4 +1,4 @@
-// C program to illutrate the use of puts() function
+// C program to illutrate the use of puts() functionb 
 #include <stdio.h>
 int main()
 {
